@@ -1,0 +1,13 @@
+# Crash Report Extractor — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+pymupdf>=1.23.0           # PDF text extraction (imported as `fitz`)
+mediapipe>=0.10.14        # MediaPipe LiteRT runtime for Gemma inference
+sentence-transformers>=2.7.0   # Local embeddings (all-MiniLM-L6-v2)
+faiss-cpu>=1.8.0          # Vector similarity search (CPU version)
+langgraph>=0.2.0          # RAG pipeline orchestration
+langchain-core>=0.2.0     # Required by LangGraph
+pandas>=2.0.0             # DataFrame and Excel writing
+openpyxl>=3.1.0           # Excel engine used by pandas
+numpy>=1.24.0             # Array math for embeddings
+torch>=2.0.0              # Required by sentence-transformers

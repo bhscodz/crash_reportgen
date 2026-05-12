@@ -1,0 +1,507 @@
+SVNIT Crash Data for TEST
+Accident Summary - 2032112233445566
+FIR/CSR Number
+:  ABC012345678
+FIR Date & Time 
+   : 20-Jun-2032 : 12:20 PM
+Act          : Indian Penal Code, 1860 ,
+Motor Vehicles Act, 1988
+Section         : Section 279, Rash driving or
+riding on a public way , Sections 122/177, Improper/
+obstructive parrking , Section 184, Driving dangerously
+State Rule       : NA
+Accident ID       : 2032112233445566
+Station Name     : SVNIT RURAL POLICE
+STATION
+Investigating Oﬃcer  : Harsh  Kakkad
+Station Address    : SVNIT, Surat, Gujarat, India
+Field Oﬃcer      : Mihir Koladiya
+District code      : 316
+District Name 
+     : Surat
+Accident Details
+Accident Date and Time
+20-Jun-2032 : 07:30 AM
+Reporting Date and Time
+20-Jun-2032 : 09:50 AM
+Landmark Name
+SVNIT, Transportation Cell
+Location Details
+NA
+Severity
+Fatal
+Road Classiﬁcation
+National Highway
+Road Name / Street Name
+NH 48, SVNIT, Surat
+Local Body
+Civil Engineering Department 
+Collision Type
+Vehicle to Pedestrian
+Collision Nature
+Hit from Side
+Initial observation of accident scene
+Accident due to Traﬃc Violation
+Traﬃc Violation
+High Speed
+Weather Condition
+Sunny / Clear
+Light Condition
+Darkness with Poor street light
+Accident Spot
+Educational Zone
+Visibility
+75
+Remedial Measures
+Speed Limiter to be provided
+ 
+Property Damage
+Yes
+Property Description
+NA
+Approximate Damage Value
+100000
+No of Vehicle(s) involved
+1
+Number of Persons involved in the
+Accident
+Killed
+Grievous Injury
+Minor Injury
+No Injury
+Total
+Driver
+1
+1
+Passenger
+0
+Pedestrian
+1
+1
+Total
+1
+0
+0
+1
+2
+ 
+Number of Animals involved in the
+Accident
+0
+Vehicle Details
+Vehicle Regn. No
+GJ05MK0000
+Accused / Victim
+Accused
+Previously Involved Accidents Count
+0
+Vehicle Category
+Motorised Fuel Vehicle
+Reg.No Status
+Known
+Registration Date
+20-Jan-1888
+Hit & Run
+no
+Disposition
+Can not be towed
+Vehicle Damage
+Front Damage, Top Damage
+Owner Name
+MIHIRKUMAR 
+Owner Father Name
+NA
+Owner Address
+NA
+Vehicle Type
+Car/Jeep/Van/Taxi
+Load Category
+Passenger
+Load Conditions
+Empty
+Colour
+MIDTOWN_GREY
+ 
+Make & Model
+Tata Motors Ltd / Tata Altroz 
+Engine Number
+NA
+Chassis Number
+NA
+Vehicle Class
+Motor Car(LMV)
+Insurance Details
+NA
+Insurance Policy No.
+NA
+Insurance Validity
+23-May-2030
+Vahan Vehicle Category
+LMV
+Norms Description
+BHARAT STAGE VI
+PUC Certiﬁcate Upto
+NA
+PUC Certiﬁcate Number
+NA
+Fuel Type
+Diesel
+RC Status On
+29-Jun-1988
+Vehicle Laden Weight(GVW)
+1575
+Vehicle Un-Laden Weight
+1150
+No of Cylinder
+4
+Vehicle Cubic Capacity
+1497.00
+Seating Capacity
+5
+Standing Capacity
+0
+Wheelbase
+2501
+Fitness Validity
+19-May-2036
+Tax Validity
+LTT
+National Permit No
+NA
+National Permit Validity
+NA
+National Permit Issued By
+NA
+Finance Name
+NA
+Owner Sr No
+1
+Owner Permanent Address
+NA
+Owner Present Address
+NA
+Vehicle Body Type Description
+5 DOOR STEEL SHELL
+ 
+Driver Details
+GJ05MK0000
+Name
+MIHIRKUMAR
+Previously involved accidents
+count
+0
+Driving License Type
+Permanent
+Driving License Status
+Active.
+Guardian Details
+NA
+Nationality
+Indian
+Injury Type
+Not Applicable
+Education
+Graduate
+Occupation
+Business
+Cell Phone While Driving?
+Not Known
+Severity
+No Injury
+Mode Of Hospitalization
+NA
+Seatbelt / Helmet
+Not Known
+Drunk and Driving
+Not Known
+Hospitalization Delay
+Not Hospitalized
+Class of Vehicle
+Motor Cycle with Gear(Non Transport),LIGHT MOTOR VEHICLE
+Gender
+Male
+Mobile Number in License
+NA
+Current Mobile number
+NA
+Blood Group
+Unknown
+Age
+24
+Marital status
+NA
+Badge Number
+NA
+Transport DL Validity
+NA
+Non Transport DL validity
+16-01-2060
+Hazardous DL Validity
+NA
+Hill DL Validity
+NA
+Permenant address in License
+NA
+ 
+Current Address in License
+NA
+Present Address
+NA
+Remarks
+NA
+Pedestrian
+Vehicle Regn. No
+Severity
+Name
+Gender
+Mobile
+Address
+GJ05MK0000
+Fatal
+XXXXXX
+Male
+NA
+Transport
+Vehicle Reg.No
+GJ05MK0000
+Regn. Validity
+Regn. Number Type
+Registration Date
+20-May-2036
+Owner Sr no
+1
+Class of Vehicle
+Motor Car(LMV)
+Type of Vehicle
+Make
+TATA ALTROZ 
+Model
+TATA MOTORS LTD
+Year of Manufacture
+4/2021
+Age of Vehicle
+1
+Engine Number
+NA
+Chassis Number
+NA
+Color
+MIDTOWN_GREY
+Seat Capacity
+5
+Un Laden Weight
+1150
+Vehicle Max. Speed Limit
+100
+Permit Category
+Permit Issued By
+Permit Number
+Permit Validity
+Owner Name
+MIHIRKUMAR
+ 
+Owner Address
+NA
+Vehicle Purpose
+RC/FC Validity
+19-May-2092
+Place of Inspection
+Insurance Company
+NA
+Insurance Policy No
+NA
+Insurance Validity
+04-May-2024
+Inspection Date
+Driving license Submited?
+no
+Length of Vehicle In MM (After Crash)
+3990
+Width of Vehicle In MM (After Crash)
+1755
+Height of Vehicle In MM (After Crash)
+1523
+Brake Type
+Hydraulic Brake
+Condition of Brake
+Satisfactory
+Condition of Foot Brake
+Active
+Condition of Hand Brake
+Active
+Brakes Even or Not
+Not Even
+Mechanical Failure Status
+no
+Mechanical
+Tyre Condition
+In Order
+Accident Due To?
+Opinion cannot be given
+Disposition of Vehicle
+3
+Tax Details
+LTT
+Steering Type
+Hydraulic
+Handle/Steering Condition
+Working
+Damage Status
+Front Damage
+Skid Mark
+0
+Check Report Issued?
+no
+Check Report Number
+Report issued Date
+ 
+CFX Issued?
+CFX Number
+CFX Date
+FC Status
+FC Validity
+19-May-2036
+RLW
+19-May-2036
+Pollution Under Control Certiﬁcate Validity
+19-May-2036
+Vehicle Defect Type
+Condition of Wheels
+Satisfactory
+Condition of Wipers
+Working
+Condition of Mirrors
+In order
+Whether Vehicle Modiﬁed
+No
+Modiﬁcation Description
+Rear Parking Sensor
+Yes
+Whether Function or Not
+Yes
+whether scratch marks found ?
+No Scratch marks found
+Estimated cost of damage
+1
+Cause of Accident
+na
+National Permit No
+National Permit Validity
+National Permit Issued By
+Finance Name
+NA
+Owner Permanent Address
+NA
+Owner Present Address
+Na
+Vehicle Body Type Description
+5 DOOR STEEL SHELL
+Paint transfer found
+No
+Location of paint transfer
+Color of paint transfer
+Installed CNG / LPG kit
+No
+ 
+Horn installed and functional?
+Yes
+Brake lights & other lights functional?
+Yes
+Vehicle had faulty number plate?
+No
+Whether the vehicle ﬁtted with airbags?
+Yes
+Airbags Deployed?
+No
+If not deployed, state reasons
+Vehicle had tinted glasses?
+No
+For educational institutions bus, whether the vehicle was
+ﬁtted with the doors that can be shut & whether the vehicle
+had a suitable inscription to indicate that they are in the duty
+of an educational institute?
+No
+Speed Limiter devices in case of PSV
+Yes
+Whether functional or not?
+Yes
+Front Parking Sensors
+Yes
+Whether functional or not?
+Vehicle Location Tracking (VLT) Devices
+No
+Whether functional or not?
+Run protection device and Side under run protection device
+no
+Bull Bars
+no
+Reﬂective Tapes
+yes
+WindScreen Safety
+yes
+Road Details
+Area Type
+Uraban
+Road Classiﬁcation
+National Highway
+Road Owning Agency
+National Highway under NHAI
+State
+RO
+PIU
+UPC
+Project Name
+Road Number
+00
+ 
+Road Name / Street Name
+Surat - Surat
+Type of Structure
+Normal Road
+Type of Road Surface
+Bituminous / Asphalt
+Surface Condition
+Good
+Type of Carriageway
+6 Lane Divided (2 way)
+Road Width (in metre)
+12.50
+Accident Location
+Horizontal curve
+Road Chainage (in metre)
+79+450
+Horizontal Curve
+Simple curve
+Vertical Curve
+Nill
+Road Width at Curve (in Metre)
+12.50
+Junction Type
+Nill
+Junction Control
+Nill
+Sight Distance
+Available to Curve
+Speed Limit (in KMPH)
+Above 90
+Road Margins
+Shoulders
+Type of Terrain
+Plain Terrain (0 to 10%)
+Type of Surface Gradient
+Ruling Gradient
+Physical Divider / Barrier Type
+yes
+Type of Median
+Kerb median
+Pedestrian Infrastructure
+Not applicable
+Ongoing Road Work
+No
+Road Markings
+Available
+Road Sign Board
+Available and Reﬂective
+Short-Term Remedial Measures
+Long-Term Remedial Measures
+
